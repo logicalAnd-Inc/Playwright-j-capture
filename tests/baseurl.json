@@ -1,0 +1,14 @@
+{
+    "base":[
+        {
+            "name":"hon",
+            "path":"http://ism:ism2010@ism-j-cms-hon.sb-factory.net/",
+            "orgPath":"http://ism-j-cms-hon.sb-factory.net"
+        },
+        {
+            "name":"hon82",
+            "path":"http://ism:ism2010@ism-j-cms-php82-hon.sb-factory.net/",
+            "orgPath":"http://ism-j-cms-php82-hon.sb-factory.net"
+        }
+    ]
+}

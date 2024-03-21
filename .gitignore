@@ -1,0 +1,4 @@
+﻿capture-results/
+logs/
+node_modules/
+playwright-report/index.html
