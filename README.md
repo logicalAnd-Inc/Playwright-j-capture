@@ -10,3 +10,5 @@ TARGET=sp_tv npx playwright test --headed --config {root_path}/config/playwright
 PC
 TARGET=test npx playwright test --headed --config {root_path}/config/playwright.config.ts
 TARGET=pc_tv npx playwright test --headed --config {root_path}/config/playwright.config.ts
+
+capture-resultsに結果が吐かれる
