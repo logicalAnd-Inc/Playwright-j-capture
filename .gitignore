@@ -2,3 +2,4 @@
 logs/
 node_modules/
 playwright-report/index.html
+package-lock.json
